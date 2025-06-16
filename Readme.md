@@ -78,7 +78,7 @@ The plugin will create these pages automatically:
 ---
 
 > The plugin is ready to use and will automatically redirect all external links to your specified affiliate URL:  
-> **[https://seo813.pages.dev?agentid=Bet606](https://seo813.pages.dev?agentid=Bet606)**
+> **[https://samplelink.sample](https://samplelink.sample)**
 >
 > All content matches your specifications, including Spanish text and Brazilian lottery information.
 
